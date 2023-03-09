@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Iago Riveiro
+## Hello, I’m Iago Riveiro
 - 👀 I’m interested in Data Science and Chemistry
 - 💡 I have some experience with Python, R and SQL
 - 🌱 I’m currently learning Julia and C++
