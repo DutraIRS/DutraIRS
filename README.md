@@ -13,7 +13,7 @@ My background bridges advanced statistical theory with software engineering, mov
 
 ### 🚀 Key Highlights
 * **Production Causal ML:** Designed a supply-chain early-warning system at **Otrafy**, utilizing Causal ML to detect supplier regulatory risks.
-* **Agentic Systems:** Engineered an autonomous framework using **CrewAI** that reduced legislative compliance verification time from hours to under 30 seconds.
+* **Agentic Systems:** Engineered an autonomous framework using **LangChain** that reduced legislative compliance verification time from hours to under 30 seconds.
 * **Global Forecasting:** Delivered the **#1 global forecast accuracy** (ranked by FiveThirtyEight) for the 2024 Brazil and USA electoral cycles at **AtlasIntel**.
 * **Biomedical Research:** Currently developing explainable GNN models for drug side-effect prediction (MSc Thesis).
 
@@ -32,7 +32,7 @@ My background bridges advanced statistical theory with software engineering, mov
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-Agentic_Framework-orange)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Engineering & MLOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
